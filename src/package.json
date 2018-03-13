@@ -6,7 +6,10 @@
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["twilio", "realtime"],
+  "keywords": [
+    "twilio",
+    "realtime"
+  ],
   "author": "Peter Mbanugo",
   "license": "ISC",
   "dependencies": {
